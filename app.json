@@ -1,5 +1,5 @@
 {
-  "name": "Astro-MD V2",
+  "name": "YUZU",
   "description": "Sinhala MultiDevice Bot Created By VihangaYT",
   "repository": "https://github.com/vihangayt0/Astro-MD-V2",
   "logo": "",
@@ -9,7 +9,7 @@
 "ALIVE_MSG" :{
     "description" : "alive message",
     "required" : true,
-  "value" : "Alive now"
+  "value" : "Yo I'm here"
     },
     "INBOX_BL_MSG" :{
     "description" : "Only Group And Inbox Block Massage",
